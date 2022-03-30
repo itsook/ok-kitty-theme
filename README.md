@@ -3,4 +3,4 @@ ok theme for kitty based on the ok color scheme
 
 
 
-copy the content of the code into .config/kitty/kitty.conf
+copy the content of kitty.conf into .config/kitty/kitty.conf
