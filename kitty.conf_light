@@ -1,0 +1,61 @@
+# upstream: https://github.com/itsook/ok-kitty-theme/blob/main/kitty.conf_light
+
+
+
+background 	#d2daf4
+foreground 	#0b0d10
+
+selection_foreground	 #d2daf4
+selection_background  #636c7e
+
+cursor 	#0b0d10
+
+#black
+color0	#636c7e
+
+#dark red
+color1 	#c44949
+
+#dark green
+color2 	#3fcc6c
+
+#dark yellow
+color3 	#dfa93f
+
+#dark blue
+color4 	#3580c1
+
+#dark magenta
+color5 	#ac45cc
+
+#dark cyan
+color6 	#36b5a4
+
+#gray
+color7 	#b5cdbd
+
+#dark gray 
+color8	#636c7e
+
+#red
+color9	#e15858
+
+#green
+color10	#53db7f
+
+#yellow
+color11 #daa640
+
+#blue
+color12	#4796d9
+
+#magenta
+color13	#b057cb
+
+#cyan
+color14 #51d5c3
+
+#white
+color15	#d2daf4 	
+
+
